@@ -1,8 +1,8 @@
 {
   "name": "ufuk-bakan-color-themes",
   "displayName": "Ufuk Bakan Color Themes",
-  "description": "Improved Vue and Snazzy Light color themes",
-  "version": "0.0.1",
+  "description": "Improved Vue and Snazzy Light color themes with Ayu file icons and Fluent product icons",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -21,6 +21,20 @@
         "uiTheme": "vs",
         "path": "./themes/improved-vue-theme-color-theme.json"
       }
-    ]
+    ],
+    "iconThemes": [
+			{
+				"id": "ayu",
+				"label": "Ayu",
+				"path": "./ayu-icons.json"
+			}
+		],
+    "productIconThemes": [
+			{
+				"id": "fluent-icons",
+				"label": "Fluent Icons",
+				"path": "./themes/fluent-icons.json"
+			}
+		]
   }
 }
