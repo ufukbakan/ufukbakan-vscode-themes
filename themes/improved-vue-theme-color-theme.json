@@ -10,8 +10,9 @@
     "settings.headerForeground": "#19f9d8",
     "descriptionForeground": "#E6E6E6",
     "icon.foreground": "#E6E6E6",
-    "disabledForeground": "#ffadad77",
+    "disabledForeground": "#ff7676",
     "extensionIcon.verifiedForeground": "#00d5ff",
+    "welcomePage.progress.foreground": "#19f9d8",
     "list.warningForeground": "#ffaa00",
     "list.errorForeground": "#e13333",
     "notifications.foreground": "#E6E6E6",
@@ -31,6 +32,7 @@
     "inputValidation.errorBorder": "#19f9d8",
     "activityBar.background": "#121212",
     "activityBar.foreground": "#19f9d8",
+    "editorWidget.foreground": "#E6E6E6",
     "editor.background": "#191919",
     "editorCursor.foreground": "#F8F8F0",
     "editor.foreground": "#E6E6E6",
@@ -49,6 +51,8 @@
     "list.inactiveSelectionForeground": "#aeb1b0",
     "list.highlightForeground": "#aeb1b0",
     "list.inactiveFocusBackground": "#121212",
+    "panelTitle.activeForeground": "#f0f0f0",
+    "panelTitle.inactiveForeground": "#8a8a8a",
     "sideBar.background": "#121212",
     "sideBar.foreground": "#E6E6E6",
     "sideBar.border": "#4049549d",
@@ -84,7 +88,13 @@
     "debugToolBar.background": "#121212",
     "editorGroupHeader.tabsBackground": "#121212",
     "textLink.activeForeground": "#b3b8b6e5",
-    "textLink.foreground": "#00abc1de"
+    "textLink.foreground": "#00abc1de",
+    "editorBracketHighlight.foreground1": "#00ffff",
+    "editorBracketHighlight.foreground2": "#ff00dd",
+    "editorBracketHighlight.foreground3": "#cc00ff",
+    "editorBracketHighlight.foreground4": "#99ff00",
+    "editorBracketHighlight.foreground5": "#ff9900",
+    "editorBracketHighlight.foreground6": "#ff0000"
   },
   "tokenColors": [
     {
@@ -467,7 +477,6 @@
         "foreground": "#88f1ffc2"
       }
     },
-
     // markdown
     {
       "name": "markdown",
