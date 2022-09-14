@@ -3,6 +3,8 @@
   "name": "Improved Vue Theme",
   "type": "dark",
   "colors": {
+    "editorInlayHint.foreground": "#c5c5c5",
+    "dropdown.foreground": "#E6E6E6",
     "panel.background": "#121212",
     "panelTitle.activeBorder": "#19f9d8",
     "focusBorder": "#19f9d759",
