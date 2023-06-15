@@ -4,6 +4,9 @@ All notable changes to the "ufuk-bakan-color-themes" extension will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v2.0.0]
+- Improvements on dark (vue) theme.
+
+## [v1.0.0]
 
 - Initial release
