@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Snazzy Light",
   "type": "light",
   "colors": {
