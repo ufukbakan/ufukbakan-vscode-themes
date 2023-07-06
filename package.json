@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ufukbakan/ufukbakan-vscode-themes.git"
+  },
+  "publisher": "UfukBakan",
   "categories": [
     "Themes"
   ],
