@@ -101,7 +101,7 @@
     "editorBracketHighlight.foreground3": "#cc00ff",
     "editorBracketHighlight.foreground4": "#99ff00",
     "editorBracketHighlight.foreground5": "#ff9900",
-    "editorBracketHighlight.foreground6": "#ff0000",
+    "editorBracketHighlight.foreground6": "#0011ff",
     "gitDecoration.modifiedResourceForeground": "#3cffff",
     "gitDecoration.addedResourceForeground": "#99ff00",
     "gitDecoration.deletedResourceForeground": "#ff0000",
@@ -196,7 +196,7 @@
       "name": "variable object",
       "scope": "variable.other.object.property, variable.other.property, meta.template.expression, support.variable.property, variable.language.super, support.class.component.js, entity.name.tag.js, entity.name.tag.tsx, entity.name.tag.style.html",
       "settings": {
-        "foreground": "#ff6694f1"
+        "foreground": "#00d9b3"
       }
     },
     {
