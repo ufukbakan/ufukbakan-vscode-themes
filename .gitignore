@@ -1,2 +1,4 @@
 .vscode/
 **/*.vsix
+*lock.*
+node_modules/

@@ -1,4 +1,7 @@
 .vscode/**
 .vscode-test/**
+**/*.vsix
 .gitignore
 vsc-extension-quickstart.md
+*lock.*
+node_modules/**

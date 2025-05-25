@@ -2,9 +2,13 @@
   "name": "ufuk-bakan-color-themes",
   "displayName": "Ufuk Bakan Color Themes",
   "description": "Improved Vue and Snazzy Light color themes with Ayu file icons and Fluent product icons",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "engines": {
     "vscode": "*"
+  },
+  "scripts": {
+    "build": "vsce package",
+    "vsls": "vsce ls --tree"
   },
   "repository": {
     "type": "git",
@@ -41,5 +45,8 @@
 				"path": "./themes/fluent-icons.json"
 			}
 		]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.4.2"
   }
 }
